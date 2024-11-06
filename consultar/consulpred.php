@@ -19,7 +19,6 @@ else {
   }   
 }
 
-
 function focus_predios(){
 	return 'predios';
    }
